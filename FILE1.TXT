@@ -12,6 +12,6 @@ WALKING
 USING MOBILE
 DINNER
 SLEEP
-
+wakeup
 invalid
 valid
