@@ -12,5 +12,8 @@ WALKING
 USING MOBILE
 DINNER
 SLEEP
-
+wakeup
 invalid
+valid
+i love yoga 
+yoga is good for health
